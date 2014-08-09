@@ -1,0 +1,5 @@
+C:\WorkFolder\CodeCentral\ConsoleApplication1\HackerRankMain\bin\Debug\HackerRankMain.dll
+C:\WorkFolder\CodeCentral\ConsoleApplication1\HackerRankMain\bin\Debug\HackerRankMain.pdb
+C:\WorkFolder\CodeCentral\ConsoleApplication1\HackerRankMain\obj\Debug\HackerRankCore.csprojResolveAssemblyReference.cache
+C:\WorkFolder\CodeCentral\ConsoleApplication1\HackerRankMain\obj\Debug\HackerRankMain.dll
+C:\WorkFolder\CodeCentral\ConsoleApplication1\HackerRankMain\obj\Debug\HackerRankMain.pdb
