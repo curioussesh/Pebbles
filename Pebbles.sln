@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRankCore", "HackerRankMain\HackerRankCore.csproj", "{4DBECCEA-68F0-4123-AE2D-C9FF2DBDF6C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Candies", "DynamicProgramming1\Candies.csproj", "{1722AD35-5C52-4879-A0EA-BAD7CCFC1041}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Candies", "Candies\Candies.csproj", "{1722AD35-5C52-4879-A0EA-BAD7CCFC1041}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -16,7 +16,7 @@ namespace Candies
             try
             {
                 ArrayList oAl = oHr.ReadFile4Ints("Input.txt");
-
+                Console.ReadLine();
             }
             catch (Exception ex)
             {
