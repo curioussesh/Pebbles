@@ -48,15 +48,15 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\HackerRankMain\HackerRankCore.csproj">
-      <Project>{4dbeccea-68f0-4123-ae2d-c9ff2dbdf6c8}</Project>
-      <Name>HackerRankCore</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="Input.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HackerRankCore\HackerRankCore.csproj">
+      <Project>{4dbeccea-68f0-4123-ae2d-c9ff2dbdf6c8}</Project>
+      <Name>HackerRankCore</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

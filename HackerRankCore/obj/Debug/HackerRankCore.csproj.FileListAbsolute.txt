@@ -3,3 +3,8 @@ C:\WorkFolder\CodeCentral\ConsoleApplication1\HackerRankMain\bin\Debug\HackerRan
 C:\WorkFolder\CodeCentral\ConsoleApplication1\HackerRankMain\obj\Debug\HackerRankCore.csprojResolveAssemblyReference.cache
 C:\WorkFolder\CodeCentral\ConsoleApplication1\HackerRankMain\obj\Debug\HackerRankMain.dll
 C:\WorkFolder\CodeCentral\ConsoleApplication1\HackerRankMain\obj\Debug\HackerRankMain.pdb
+C:\WorkFolder\CodeCentral\Pebbles\HackerRankCore\bin\Debug\HackerRankCore.dll
+C:\WorkFolder\CodeCentral\Pebbles\HackerRankCore\bin\Debug\HackerRankCore.pdb
+C:\WorkFolder\CodeCentral\Pebbles\HackerRankCore\obj\Debug\HackerRankCore.csprojResolveAssemblyReference.cache
+C:\WorkFolder\CodeCentral\Pebbles\HackerRankCore\obj\Debug\HackerRankCore.dll
+C:\WorkFolder\CodeCentral\Pebbles\HackerRankCore\obj\Debug\HackerRankCore.pdb

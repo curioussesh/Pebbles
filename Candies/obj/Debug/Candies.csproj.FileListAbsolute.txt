@@ -12,8 +12,8 @@ C:\WorkFolder\CodeCentral\Pebbles\Candies\bin\Debug\Input.txt
 C:\WorkFolder\CodeCentral\Pebbles\Candies\bin\Debug\Candies.exe.config
 C:\WorkFolder\CodeCentral\Pebbles\Candies\bin\Debug\Candies.exe
 C:\WorkFolder\CodeCentral\Pebbles\Candies\bin\Debug\Candies.pdb
-C:\WorkFolder\CodeCentral\Pebbles\Candies\bin\Debug\HackerRankMain.dll
-C:\WorkFolder\CodeCentral\Pebbles\Candies\bin\Debug\HackerRankMain.pdb
 C:\WorkFolder\CodeCentral\Pebbles\Candies\obj\Debug\Candies.csprojResolveAssemblyReference.cache
 C:\WorkFolder\CodeCentral\Pebbles\Candies\obj\Debug\Candies.exe
 C:\WorkFolder\CodeCentral\Pebbles\Candies\obj\Debug\Candies.pdb
+C:\WorkFolder\CodeCentral\Pebbles\Candies\bin\Debug\HackerRankCore.dll
+C:\WorkFolder\CodeCentral\Pebbles\Candies\bin\Debug\HackerRankCore.pdb
